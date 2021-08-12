@@ -6,7 +6,6 @@ public class b16936 {
 
 	static int N;
 	static long[] v;
-	static HashSet<Long> set;
 	static ArrayList<Long> al;
 	static long[] B;
 	public static void main(String[] args) {
